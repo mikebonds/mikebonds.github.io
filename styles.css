@@ -60,7 +60,7 @@ main {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    padding: 40px;
+    padding: 0 40px;
     box-sizing: border-box;
     width: 100%;
 }
